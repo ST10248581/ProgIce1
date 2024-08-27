@@ -1,0 +1,14 @@
+C:\Users\troyk\source\repos\PROGBICEOne\bin\Debug\PROGBICEOne.exe.config
+C:\Users\troyk\source\repos\PROGBICEOne\bin\Debug\PROGBICEOne.exe
+C:\Users\troyk\source\repos\PROGBICEOne\bin\Debug\PROGBICEOne.pdb
+C:\Users\troyk\source\repos\PROGBICEOne\obj\Debug\PROGBICEOne.csproj.AssemblyReference.cache
+C:\Users\troyk\source\repos\PROGBICEOne\obj\Debug\PROGBICEOne.AddProduct.resources
+C:\Users\troyk\source\repos\PROGBICEOne\obj\Debug\PROGBICEOne.Form1.resources
+C:\Users\troyk\source\repos\PROGBICEOne\obj\Debug\PROGBICEOne.Properties.Resources.resources
+C:\Users\troyk\source\repos\PROGBICEOne\obj\Debug\PROGBICEOne.csproj.GenerateResource.cache
+C:\Users\troyk\source\repos\PROGBICEOne\obj\Debug\PROGBICEOne.csproj.CoreCompileInputs.cache
+C:\Users\troyk\source\repos\PROGBICEOne\obj\Debug\PROGBICEOne.exe
+C:\Users\troyk\source\repos\PROGBICEOne\obj\Debug\PROGBICEOne.pdb
+C:\Users\troyk\source\repos\PROGBICEOne\obj\Debug\PROGBICEOne.UpdateExistingProduct.resources
+C:\Users\troyk\source\repos\PROGBICEOne\obj\Debug\PROGBICEOne.DisplayInventoryReport.resources
+C:\Users\troyk\source\repos\PROGBICEOne\obj\Debug\PROGBICEOne.ProcessSales.resources
